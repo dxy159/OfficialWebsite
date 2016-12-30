@@ -133,6 +133,7 @@ PORTFOLIO
   text-transform: uppercase;
   color: #fff;
   margin-top: 10%;
+  margin-bottom: 10%;
   text-align: center;
   position: relative;
   font-size: 17px;
@@ -144,7 +145,6 @@ PORTFOLIO
 	color: #fff;
 	text-align: center;
 	position: relative;
-	margin-top: 10%;
 }
 
 .hovereffect ul {
