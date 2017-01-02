@@ -103,6 +103,7 @@ PORTFOLIO
   position: relative;
   text-align: center;
   cursor: default;
+  margin-bottom: 30px;
 }
 
 .hovereffect .overlay {
@@ -127,6 +128,9 @@ PORTFOLIO
   position: relative;
   -webkit-transition: all 0.2s ease-in;
   transition: all 0.2s ease-in;
+  border-style: solid;
+  border-color: #000;
+  border-width: 2px;
 }
 
 .hovereffect h2 {
@@ -203,7 +207,6 @@ PORTFOLIO
 }
 
 /*general positioning*/
-
 .gallery img {
 	border-radius: 20px;
 	display: inline-block;
